@@ -5,7 +5,12 @@ const Footer = () => {
   return (
     <div className="w-full relative text-center py-10 text-white mt-auto">
       <div className="flex justify-center items-center gap-2 flex-col sm:flex-row">
-        <span>Project by</span>
+        <span>
+          {" "}
+          <a href="https://github.com/madbag/random_quotes" target="_blank">
+            Project by
+          </a>
+        </span>
         <a
           href="https://www.linkedin.com/in/madhushreeb/"
           target="_blank"
