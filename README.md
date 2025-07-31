@@ -28,9 +28,9 @@ I made this project to understand state, using different UI libraries like shadc
 
 ---
 ## 💻 Screenshot 
-![Laptop View](./assests/Random%20Quotes.JPG)
+![Laptop View](./public/Random%20Quotes.JPG)
 
-![Mobile View](./assests/Random%20Quotes_mobile.JPG)
+![Mobile View](./public/Random%20Quotes_mobile.JPG.jpeg)
 
 ## 🚀 Installation
 
