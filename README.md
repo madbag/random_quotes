@@ -39,7 +39,5 @@ git clone https://github.com/madbag/random_quotes
 cd random_quotes
 npm install 
 
----
-
 
 
