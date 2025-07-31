@@ -10,8 +10,8 @@
   - [📚 Table of Contents](#-table-of-contents)
   - [🧠 About](#-about)
   - [✨ Features](#-features)
-  - [🚀 Installation](#-installation)
   - [💻 Screenshot](#-screenshot)
+  - [🚀 Installation](#-installation)
 
 ---
 
@@ -27,6 +27,10 @@ I made this project to understand state, using different UI libraries like shadc
 - ⚡ Animated background through Aceternity UI
 
 ---
+## 💻 Screenshot 
+![Laptop View](./assests/Random%20Quotes.JPG)
+
+![Mobile View](./assests/Random%20Quotes_mobile.JPG)
 
 ## 🚀 Installation
 
@@ -37,5 +41,5 @@ npm install
 
 ---
 
-## 💻 Screenshot 
+
 
