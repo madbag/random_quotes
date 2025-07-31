@@ -52,6 +52,7 @@ export default function Quotes() {
               scale: 1.2,
               transition: { duration: 0.1 },
             }}
+            whileTap={{ scale: 0.95 }}
           >
             <Button
               onClick={getRandomQuote}
@@ -65,8 +66,8 @@ export default function Quotes() {
 
       <div className="flex flex-col items-center justify-center my-10">
         {randomQuote && (
-          <div className="relative z-20">
-            <BackgroundGradient className="rounded-[22px] max-w-lg p-7 sm:p-10 bg-white dark:bg-zinc-900 text-center min-w-[300px]">
+          <div className="relative z-20 ">
+            <BackgroundGradient className="rounded-[22px] max-w-lg p-7 sm:p-9 bg-white text-center min-w-[200px]">
               <p className="sm:text-4xl text-2xl font-semibold sm:pb-4 pb-2  ">
                 "{randomQuote.quote}"
               </p>

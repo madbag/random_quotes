@@ -1,12 +1,41 @@
-# React + Vite
+# 📦 Random Quotes
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+> This is a small project on getting random inspirational and motivational quotes from famous people. 
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 📚 Table of Contents
 
-## Expanding the ESLint configuration
+- [📦 Random Quotes](#-random-quotes)
+  - [📚 Table of Contents](#-table-of-contents)
+  - [🧠 About](#-about)
+  - [✨ Features](#-features)
+  - [🚀 Installation](#-installation)
+  - [💻 Screenshot](#-screenshot)
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+
+## 🧠 About
+
+I made this project to understand state, using different UI libraries like shadcn, aceternity UI, and framer motion. The web app is responsive and can be accessed from all the devices. 
+
+---
+
+## ✨ Features
+
+- ✅ Gives random quotes 
+- ⚡ Animated background through Aceternity UI
+
+---
+
+## 🚀 Installation
+
+```bash
+git clone https://github.com/madbag/random_quotes
+cd random_quotes
+npm install 
+
+---
+
+## 💻 Screenshot 
+

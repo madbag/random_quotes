@@ -3,7 +3,7 @@ import Quotes from "./Component/Quotes";
 
 function App() {
   return (
-    <div>
+    <div className="h-screen flex flex-col">
       <Quotes />
     </div>
   );
