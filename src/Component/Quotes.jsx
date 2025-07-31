@@ -52,9 +52,12 @@ export default function Quotes() {
               scale: 1.2,
               transition: { duration: 0.1 },
             }}
-            whileTap={{ scale: 0.7, 
-              transition: { duration: 0.1 }
-             }}
+            whileTap={{
+              scale: 0.5,
+              backgroundColor: "#ffffff",
+              color: "#000000",
+              transition: { duration: 0.1 },
+            }}
           >
             <Button
               onClick={getRandomQuote}
