@@ -54,12 +54,11 @@ export default function Quotes() {
             }}
             whileTap={{
               scale: 0.75,
-              transition: { duration: 0.1 },
             }}
           >
             <Button
               onClick={getRandomQuote}
-              className="text-md sm:text-lg border-1 p-4 sm:p-6 rounded-xl border-gray-100  text-white hover:bg-white hover:text-black transition-colors duration-300"
+              className="text-md sm:text-lg border-1 p-4 sm:p-6 rounded-xl border-gray-100  text-white hover:bg-white hover:text-black active:bg-white active:text-black transition-colors duration-300"
             >
               Click me!
             </Button>
