@@ -11,6 +11,7 @@
   - [🧠 About](#-about)
   - [✨ Features](#-features)
   - [💻 Screenshot](#-screenshot)
+  - [🚀 Live Demo](#-live-demo)
   - [🚀 Installation](#-installation)
 
 ---
@@ -31,6 +32,12 @@ I made this project to understand state, using different UI libraries like **Sha
 ![Laptop View](./public/Random%20Quotes.JPG)
 
 ![Mobile View](./public/Random%20Quotes_mobile.JPG.jpeg)
+
+
+## 🚀 Live Demo
+
+Check it out here: [Random Quotes](https://random-quotes-project.vercel.app/)
+
 
 ## 🚀 Installation
 
