@@ -30,7 +30,7 @@ export default function Quotes() {
     <div className="min-h-screen relative overflow-hidden bg-slate-900 flex flex-col items-center ">
       <div className="absolute inset-0 z-20 [mask-image:radial-gradient(transparent,white)] pointer-events-none" />
       <Boxes />
-      <header className="text-center p-4 text-white sm:mt-[6em] mt-[3em]">
+      <header className="text-center p-4 text-white sm:mt-[4.5em] mt-[3em]">
         <h1
           className={cn(
             "md:text-5xl text-3xl text-white relative z-20 sm:mb-2 font-bold"
