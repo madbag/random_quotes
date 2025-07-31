@@ -17,7 +17,7 @@
 
 ## 🧠 About
 
-I made this project to understand state, using different UI libraries like shadcn, aceternity UI, and framer motion. The web app is responsive and can be accessed from all the devices. 
+I made this project to understand state, using different UI libraries like **ShadCN**, **Aceternity UI**, and **Framer Motion**. The web app is responsive and can be accessed from all the devices. 
 
 ---
 
