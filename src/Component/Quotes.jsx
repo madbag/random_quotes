@@ -53,8 +53,8 @@ export default function Quotes() {
               transition: { duration: 0.1 },
             }}
             whileTap={{
-              scale: 0.5,
-              transition: { duration: 0.010 },
+              scale: 0.75,
+              transition: { duration: 0.1 },
             }}
           >
             <Button
