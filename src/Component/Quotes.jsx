@@ -52,8 +52,8 @@ export default function Quotes() {
               scale: 1.2,
               transition: { duration: 0.1 },
             }}
-            whileTap={{ scale: 1.95, 
-              transition: { duration: 0.5 }
+            whileTap={{ scale: 1.2, 
+              transition: { duration: 0.1 }
              }}
           >
             <Button
